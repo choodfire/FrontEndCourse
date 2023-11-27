@@ -22,8 +22,6 @@ function runLengthEncoding(str) {
 
     return results
 }
-runLengthEncoding('WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW')
-console.log('tet');
 
 
 
